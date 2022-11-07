@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\FeatureSettingsTool\\FeatureSettingsTool\\FeatureSettingsTool.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\FeatureSettingsTool\\FeatureSettingsTool\\FeatureSettingsTool.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\FeatureSettingsTool\\FeatureSettingsTool\\FeatureSettingsTool.csproj",
+        "projectName": "FeatureSettingsTool",
+        "projectPath": "C:\\Projects\\FeatureSettingsTool\\FeatureSettingsTool\\FeatureSettingsTool.csproj",
+        "packagesPath": "C:\\Users\\rocruz\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\FeatureSettingsTool\\FeatureSettingsTool\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rocruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/restaurant-technology-org/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Sharp.FeatureSettings": {
+              "target": "Package",
+              "version": "[0.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FeatureSettingsTool", "FeatureSettingsTool\FeatureSettingsTool.csproj", "{6CD6403E-1CAA-4061-B89F-871A7A920BE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeatureSettingsToolTests", "FeatureSettingsToolTests\FeatureSettingsToolTests.csproj", "{B7CB6300-6807-4C69-9526-8B995AED320B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CD6403E-1CAA-4061-B89F-871A7A920BE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD6403E-1CAA-4061-B89F-871A7A920BE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD6403E-1CAA-4061-B89F-871A7A920BE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD6403E-1CAA-4061-B89F-871A7A920BE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7CB6300-6807-4C69-9526-8B995AED320B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7CB6300-6807-4C69-9526-8B995AED320B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7CB6300-6807-4C69-9526-8B995AED320B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7CB6300-6807-4C69-9526-8B995AED320B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {408B35BA-66D3-4A82-9505-29757CD26898}
+	EndGlobalSection
+EndGlobal
